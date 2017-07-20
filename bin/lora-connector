@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+var LoraConnector = require('../lib/loraConnector');
+var config = require('../config');
+
+var lora = new LoraConnector(config);
+
+
+lora.start();

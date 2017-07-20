@@ -1,0 +1,149 @@
+INFO: 2017-05-09T14:44:41+08:00 sub topics success 
+INFO: 2017-05-09T14:44:41+08:00 {"0":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/accepted","1":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/rejected","2":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta","3":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/accepted","4":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/rejected","5":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/accepted","6":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/rejected","7":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta","8":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/accepted","9":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/rejected"}
+INFO: 2017-05-09T14:44:41+08:00 sub topics success 
+INFO: 2017-05-09T14:44:41+08:00 {
+    
+"0":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/accepted",
+"1":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/rejected",
+"2":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta",
+"3":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/accepted",
+"4":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/rejected",
+"5":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/accepted",
+"6":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/rejected",
+"7":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta",
+"8":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/accepted",
+"9":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/rejected"}
+
+
+
+
+
+
+
+INFO: 2017-05-09T14:45:13+08:00 sub topics success 
+INFO: 2017-05-09T14:45:13+08:00 {"0":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/accepted","1":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/rejected","2":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta","3":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/accepted","4":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/rejected","5":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/accepted","6":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/rejected","7":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta","8":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/accepted","9":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/rejected","10":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/accepted","11":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/rejected","12":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta","13":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/accepted","14":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/rejected"}
+INFO: 2017-05-09T14:45:13+08:00 sub topics success 
+INFO: 2017-05-09T14:45:13+08:00 {"0":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/accepted","1":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/rejected","2":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta","3":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/accepted","4":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/rejected","5":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/accepted","6":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/rejected","7":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta","8":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/accepted","9":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/rejected","10":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/accepted","11":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/rejected","12":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta","13":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/accepted","14":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/rejected"}
+INFO: 2017-05-09T14:45:13+08:00 sub topics success 
+INFO: 2017-05-09T14:45:13+08:00 {
+
+"0":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/accepted",
+"1":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/rejected",
+"2":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta",
+"3":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/accepted",
+"4":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/rejected",
+"5":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/accepted",
+"6":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/rejected",
+"7":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta",
+"8":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/accepted",
+"9":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/rejected",
+"10":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/accepted",
+"11":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/rejected",
+"12":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta",
+"13":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/accepted",
+"14":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/rejected"}
+
+
+
+
+
+INFO: 2017-05-09T14:45:30+08:00 sub topics success 
+INFO: 2017-05-09T14:45:30+08:00 {
+"0":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/accepted",
+"1":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/rejected",
+"2":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta",
+"3":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/accepted",
+"4":"$rlwio/devices/D5e644934c50f00c700ed5/shadow/get/rejected"}
+[ '$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta' ]
+[ '$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta' ]
+[ '$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta' ]
+[ '$rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta' ]
+INFO: 2017-05-09T15:17:37+08:00 sub topics success 
+INFO: 2017-05-09T15:17:37+08:00 
+INFO: 2017-05-09T15:17:37+08:00 sub topics success 
+INFO: 2017-05-09T15:17:37+08:00 
+INFO: 2017-05-09T15:17:37+08:00 sub topics success 
+INFO: 2017-05-09T15:17:37+08:00 
+INFO: 2017-05-09T15:17:37+08:00 sub topics success 
+INFO: 2017-05-09T15:17:37+08:00 
+INFO: 2017-05-09T15:17:41+08:00 comming mqtt message 
+INFO: 2017-05-09T15:17:41+08:00 topic: $rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta 
+INFO: 2017-05-09T15:17:41+08:00 message:  
+INFO: 2017-05-09T15:17:41+08:00 {"state":{"delta":{"data":"fortesti1ffff02580078000000000000000000"}},"metadata":{"delta":{"data":{"timestamp":1494314196}}},"version":601,"timestamp":1494314196}
+
+INFO: 2017-05-09T15:17:41+08:00 comming mqtt message 
+INFO: 2017-05-09T15:17:41+08:00 topic: $rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta 
+INFO: 2017-05-09T15:17:41+08:00 message:  
+INFO: 2017-05-09T15:17:41+08:00 {"state":{"delta":{"data":"fortesti1ffff02580078000000000000000000"}},"metadata":{"delta":{"data":{"timestamp":1494314196}}},"version":601,"timestamp":1494314196}
+
+INFO: 2017-05-09T15:17:41+08:00 comming mqtt message 
+INFO: 2017-05-09T15:17:41+08:00 topic: $rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta 
+INFO: 2017-05-09T15:17:41+08:00 message:  
+INFO: 2017-05-09T15:17:41+08:00 {"state":{"delta":{"data":"fortesti1ffff02580078000000000000000000"}},"metadata":{"delta":{"data":{"timestamp":1494314196}}},"version":601,"timestamp":1494314196}
+
+INFO: 2017-05-09T15:17:41+08:00 comming mqtt message 
+INFO: 2017-05-09T15:17:41+08:00 topic: $rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta 
+INFO: 2017-05-09T15:17:41+08:00 message:  
+INFO: 2017-05-09T15:17:41+08:00 {"state":{"delta":{"data":"fortesti1ffff02580078000000000000000000"}},"metadata":{"delta":{"data":{"timestamp":1494314196}}},"version":601,"timestamp":1494314196}
+
+INFO: 2017-05-09T15:17:41+08:00 comming mqtt message 
+INFO: 2017-05-09T15:17:41+08:00 topic: $rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta 
+INFO: 2017-05-09T15:17:41+08:00 message:  
+INFO: 2017-05-09T15:17:41+08:00 {"state":{"delta":{"data":"fortesti1ffff02580078000000000000000000"}},"metadata":{"delta":{"data":{"timestamp":1494314196}}},"version":601,"timestamp":1494314196}
+
+INFO: 2017-05-09T15:17:41+08:00 comming mqtt message 
+INFO: 2017-05-09T15:17:41+08:00 topic: $rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta 
+INFO: 2017-05-09T15:17:41+08:00 message:  
+INFO: 2017-05-09T15:17:41+08:00 {"state":{"delta":{"data":"fortesti1ffff02580078000000000000000000"}},"metadata":{"delta":{"data":{"timestamp":1494314196}}},"version":601,"timestamp":1494314196}
+
+
+INFO: 2017-05-09T15:17:41+08:00 comming mqtt message 
+INFO: 2017-05-09T15:17:41+08:00 topic: $rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta 
+INFO: 2017-05-09T15:17:41+08:00 message:  
+INFO: 2017-05-09T15:17:41+08:00 {"state":{"delta":{"data":"fortesti1ffff02580078000000000000000000"}},"metadata":{"delta":{"data":{"timestamp":1494314196}}},"version":601,"timestamp":1494314196}
+
+
+INFO: 2017-05-09T15:17:41+08:00 comming mqtt message 
+INFO: 2017-05-09T15:17:41+08:00 topic: $rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta 
+INFO: 2017-05-09T15:17:41+08:00 message:  
+INFO: 2017-05-09T15:17:41+08:00 {"state":{"delta":{"data":"fortesti1ffff02580078000000000000000000"}},"metadata":{"delta":{"data":{"timestamp":1494314196}}},"version":601,"timestamp":1494314196}
+
+
+INFO: 2017-05-09T15:17:41+08:00 comming mqtt message 
+INFO: 2017-05-09T15:17:41+08:00 topic: $rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta 
+INFO: 2017-05-09T15:17:41+08:00 message:  
+INFO: 2017-05-09T15:17:41+08:00 {"state":{"delta":{"data":"fortesti1ffff02580078000000000000000000"}},"metadata":{"delta":{"data":{"timestamp":1494314196}}},"version":601,"timestamp":1494314196}
+
+
+INFO: 2017-05-09T15:17:41+08:00 comming mqtt message 
+INFO: 2017-05-09T15:17:41+08:00 topic: $rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta 
+INFO: 2017-05-09T15:17:41+08:00 message:  
+INFO: 2017-05-09T15:17:41+08:00 {"state":{"delta":{"data":"fortesti1ffff02580078000000000000000000"}},"metadata":{"delta":{"data":{"timestamp":1494314196}}},"version":601,"timestamp":1494314196}
+
+INFO: 2017-05-09T15:17:41+08:00 comming mqtt message 
+INFO: 2017-05-09T15:17:41+08:00 topic: $rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta 
+INFO: 2017-05-09T15:17:41+08:00 message:  
+INFO: 2017-05-09T15:17:41+08:00 {"state":{"delta":{"data":"fortesti1ffff02580078000000000000000000"}},"metadata":{"delta":{"data":{"timestamp":1494314196}}},"version":601,"timestamp":1494314196}
+
+INFO: 2017-05-09T15:17:41+08:00 comming mqtt message 
+INFO: 2017-05-09T15:17:41+08:00 topic: $rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta 
+INFO: 2017-05-09T15:17:41+08:00 message:  
+INFO: 2017-05-09T15:17:41+08:00 {"state":{"delta":{"data":"fortesti1ffff02580078000000000000000000"}},"metadata":{"delta":{"data":{"timestamp":1494314196}}},"version":601,"timestamp":1494314196}
+
+INFO: 2017-05-09T15:17:41+08:00 comming mqtt message 
+INFO: 2017-05-09T15:17:41+08:00 topic: $rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta 
+INFO: 2017-05-09T15:17:41+08:00 message:  
+INFO: 2017-05-09T15:17:41+08:00 {"state":{"delta":{"data":"fortesti1ffff02580078000000000000000000"}},"metadata":{"delta":{"data":{"timestamp":1494314196}}},"version":601,"timestamp":1494314196}
+INFO: 2017-05-09T15:17:41+08:00 comming mqtt message 
+INFO: 2017-05-09T15:17:41+08:00 topic: $rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta 
+INFO: 2017-05-09T15:17:41+08:00 message:  
+INFO: 2017-05-09T15:17:41+08:00 {"state":{"delta":{"data":"fortesti1ffff02580078000000000000000000"}},"metadata":{"delta":{"data":{"timestamp":1494314196}}},"version":601,"timestamp":1494314196}
+INFO: 2017-05-09T15:17:41+08:00 comming mqtt message 
+INFO: 2017-05-09T15:17:41+08:00 topic: $rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta 
+INFO: 2017-05-09T15:17:41+08:00 message:  
+INFO: 2017-05-09T15:17:41+08:00 {"state":{"delta":{"data":"fortesti1ffff02580078000000000000000000"}},"metadata":{"delta":{"data":{"timestamp":1494314196}}},"version":601,"timestamp":1494314196}
+
+INFO: 2017-05-09T15:17:41+08:00 comming mqtt message 
+INFO: 2017-05-09T15:17:41+08:00 topic: $rlwio/devices/D5e644934c50f00c700ed5/shadow/update/delta 
+INFO: 2017-05-09T15:17:41+08:00 message:  
+INFO: 2017-05-09T15:17:41+08:00 {"state":{"delta":{"data":"fortesti1ffff02580078000000000000000000"}},"metadata":{"delta":{"data":{"timestamp":1494314196}}},"version":601,"timestamp":1494314196}

@@ -1,0 +1,39 @@
+{
+  "name": "cloud-lora-connector",
+  "version": "0.0.0",
+  "private": true,
+  "description": "cloud-lora-connector",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/lora-connector",
+    "test": "mocha",
+    "lint": "files=$(git diff --cached --name-only --diff-filter=ACM | grep '\\.js$'); jshint $files && jscs $files"
+  },
+  "engines": {
+    "node": "4.6.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "debug": "^2.2.0",
+    "ioredis": "^2.4.0",
+    "lodash": "^4.16.4",
+    "moment": "^2.15.1",
+    "mqtt": "^2.1.3",
+    "mysql": "^2.13.0",
+    "node-aes-cmac": "^0.1.1",
+    "rejmq": "git+https://github.com/jinbel/ReJMQ.git",
+    "sequelize": "^3.30.2",
+    "winston": "^2.2.0"
+  },
+  "devDependencies": {
+    "jscs": "^3.0.7",
+    "jsdoc": "^3.4.2",
+    "jshint": "^2.9.3",
+    "pre-commit": "^1.1.3"
+  },
+  "license": "ISC",
+  "pre-commit": [
+    "lint"
+  ]
+}
